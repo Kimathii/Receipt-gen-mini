@@ -9,10 +9,8 @@ const companies = [
       "9100 International Dr, Orlando, FL 32819"
     ],
     menu: [
-      { name: "SteelSeries Arctics Nova 3X Lavender", price: 109.99 },
-      { name: "SteelSeries Arctics Nova 3X White", price: 109.99 },
-            { name: "SteelSeries Arctics Nova 3X Aqua", price: 109.99 },
-      { name: "SteelSeries Nova 7X Wireless Headset with Booster Pack", price: 180.99 },
+      { name: "Ritual Zero Proof 750ml", price: 31.99 },
+      { name: "Ritual Zero Proof Whiskey Alternative", price: 28.99 },
     ]
   }
 
